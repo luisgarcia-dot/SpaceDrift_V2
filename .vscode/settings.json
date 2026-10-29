@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "SpaceDrift.slnx",
+    "dotnet.defaultSolution": "SpaceDrift_V2.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
