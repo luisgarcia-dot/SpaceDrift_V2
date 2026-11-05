@@ -4,9 +4,9 @@ using UnityEngine.SceneManagement;
 public class MenuControl : MonoBehaviour
 {
     //Funció per carregar una escena de intro. La escena de joc ha de comensar si hi ha un partida guardada.
-    public static void CarregarEscena(string nomEscena)
+    public static void CarregarEscena()
     {
-        SceneManager.LoadScene(nomEscena);
+        SceneManager.LoadScene("ProjectoGuardado");
     }
     public static void EscenaAjustes()
     {
