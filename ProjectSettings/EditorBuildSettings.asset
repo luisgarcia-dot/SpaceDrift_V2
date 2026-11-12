@@ -4,26 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< HEAD
-  m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
-    path: Assets/Scenes/PantallaInicio.unity
-    guid: 87d3a13fe4baf82438aed99bcde73200
-  - enabled: 1
-    path: Assets/Scenes/EscenaAjustes.unity
-    guid: 38386c969066eab4bacb08c00f90ece1
-  - enabled: 1
-    path: Assets/Scenes/ProyectoGuardado.unity
-    guid: 78627b6bbdffd4455927f899a68ef7e3
-  - enabled: 1
-    path: Assets/Scenes/IntroPartida.unity
-    guid: c4f83e3289804432a8b753204c854bc2
-  m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
-=======
   m_Scenes: []
   m_configObjects: {}
->>>>>>> origin/T6
